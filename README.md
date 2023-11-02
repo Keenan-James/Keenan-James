@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<head>
-    <style>
-        .section {
-            border-top: 2px solid black;
-            border-bottom: 2px solid black;
-            padding: 10px;
-        }
-    </style>
-</head>
-
+---
 <div class="section">
     <p>This is a sample description paragraph. It's placed inside a div element with class 'section'. The 'section' class has a top and bottom border, which serve as dividers for this section.</p>
 
@@ -23,7 +14,7 @@
 </a>
   
 </div>
-
+---
 
 
 
